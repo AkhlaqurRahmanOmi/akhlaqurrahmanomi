@@ -11,7 +11,11 @@ I specialize in building scalable applications, developing system architectures,
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Gluestack UI](https://img.shields.io/badge/-Gluestack%20UI-6466F1?style=for-the-badge)
+![Tamagui](https://img.shields.io/badge/-Tamagui-F35A3E?style=for-the-badge)
+![NativeWind](https://img.shields.io/badge/-NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native Paper](https://img.shields.io/badge/-React%20Native%20Paper-00897B?style=for-the-badge&logo=react&logoColor=white)
 
 ### **Backend Development**
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
