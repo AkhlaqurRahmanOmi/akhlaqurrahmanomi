@@ -53,7 +53,7 @@ I specialize in building scalable applications, developing system architectures,
 
 ## 📚 **Research & Publications**
 - 📰 *A Blockchain-ML Driven Freelancing Telemedicine Platform: Bangladesh Perspective*  
-  [Published on IEEE Xplore](#)
+  [Published on IEEE Xplore](# https://ieeexplore.ieee.org/abstract/document/10303356)
 
 ---
 
