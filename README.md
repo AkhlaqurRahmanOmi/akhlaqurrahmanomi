@@ -37,6 +37,16 @@ I specialize in building scalable applications, developing system architectures,
 
 ---
 
+---
+
+## 🎮 **Hobbies & Interests**
+- 🕹️ **Gaming:** [Assassin's Creed](https://www.ubisoft.com/game/assassins-creed), [FIFA](https://www.ea.com/games/fifa)  
+- ⚽ **Sports:** Football enthusiast and player!  
+- 🎬 **Web Series:** *[Lucifer](https://www.netflix.com/title/80057918)*, *[Vikings](https://www.history.com/shows/vikings)*  
+- 🎥 **Movies:** Spy thrillers, comedy, action  
+
+---
+
 ## 📚 **Research & Publications**
 - 📰 *A Blockchain-ML Driven Freelancing Telemedicine Platform: Bangladesh Perspective*  
   [Published on IEEE Xplore](#)
