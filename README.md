@@ -36,7 +36,7 @@ I specialize in building scalable applications, developing system architectures,
 
 ## 🌟 **Key Projects**
 - 🔗 **Business Selling App:** QR code scanning, token-based authentication, and custom Lottie animations for user engagement.  
-- 🔗 **Medical Billing Claims Platform:** Streamlined appeals and denials management aligned with regulatory frameworks.  
+- 🔗 **Telemedicine Platoform:** Streamlined appeals and denials management aligned with regulatory frameworks.  
 - 🔗 **Odoo Custom Module:** Optimized app integration for enhanced operational efficiency.
 
 ---
